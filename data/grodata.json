@@ -1,0 +1,918 @@
+{
+  "id": 115630,
+  "identifier": "Q3L519",
+  "persistentUrl": "https://doi.org/10.25625/Q3L519",
+  "protocol": "doi",
+  "authority": "10.25625",
+  "publisher": "GRO.data",
+  "publicationDate": "2024-10-14",
+  "storageIdentifier": "file://10.25625/Q3L519",
+  "datasetVersion": {
+    "id": 5211,
+    "datasetId": 115630,
+    "datasetPersistentId": "doi:10.25625/Q3L519",
+    "storageIdentifier": "file://10.25625/Q3L519",
+    "versionNumber": 1,
+    "versionMinorNumber": 0,
+    "versionState": "RELEASED",
+    "UNF": "UNF:6:h/YpWgqFQt2+9XecECYJKw==",
+    "lastUpdateTime": "2024-10-14T07:37:06Z",
+    "releaseTime": "2024-10-14T07:37:06Z",
+    "createTime": "2024-10-09T13:39:24Z",
+    "publicationDate": "2024-10-14",
+    "citationDate": "2024-10-14",
+    "license": {
+      "name": "CC BY 4.0",
+      "uri": "http://creativecommons.org/licenses/by/4.0",
+      "iconUri": "https://licensebuttons.net/l/by/4.0/88x31.png"
+    },
+    "fileAccessRequest": true,
+    "metadataBlocks": {
+      "citation": {
+        "displayName": "Citation Metadata",
+        "name": "citation",
+        "fields": [
+          {
+            "typeName": "title",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Replication Data for: Which CAP components are relevant for enhancing dermal microcirculation in intact skin?"
+          },
+          {
+            "typeName": "author",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Borchardt, Thomas"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "HAWK University of Applied Sciences & Arts Hildesheim Holzminden Göttingen, Faculty of Engineering and Health, Göttingen, Germany"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "0000-0003-0669-9345"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Grams, Ole"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "HAWK University of Applied Sciences & Arts Hildesheim Holzminden Göttingen, Faculty of Engineering and Health, Göttingen, Germany"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "0009-0008-4384-5229"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Emmert, Steffen"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University Medical Center Rostock, Clinic and Policlinic for Dermatology and Venereology, Rostock, Germany"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "0000-0001-5630-4204"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Viöl, Wolfgang"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "HAWK University of Applied Sciences & Arts Hildesheim Holzminden Göttingen, Faculty of Engineering and Health, Göttingen, Germany"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "0000-0003-3425-9937"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Helmke, Andreas"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "HAWK University of Applied Sciences & Arts Hildesheim Holzminden Göttingen, Faculty of Engineering and Health, Göttingen, Germany"
+                },
+                "authorIdentifierScheme": {
+                  "typeName": "authorIdentifierScheme",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "ORCID"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "0000-0002-9689-5456"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "datasetContact",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "datasetContactName": {
+                  "typeName": "datasetContactName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Borchardt, Thomas"
+                },
+                "datasetContactAffiliation": {
+                  "typeName": "datasetContactAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Faculty of Engineering and Health, HAWK University of Applied Sciences and Arts Hildesheim/Holzminden/Göttingen, Göttingen, Germany"
+                },
+                "datasetContactEmail": {
+                  "typeName": "datasetContactEmail",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "thomas.borchardt1@hawk.de"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "dsDescription",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dsDescriptionValue": {
+                  "typeName": "dsDescriptionValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "This dataset was recorded in order to identify components of cold atmospheric plasma (CAP) that are relevant for affecting dermal microcirculation. It contains time-resolved microcirculation parameters (oxygen saturation (StO2), tissue hemoglobin index, near-infrared perfusion index, tissue water index) assessed on the lateral proximal left arm of 10 healthy volunteers (n=1 per volunteer) by hyperspectral imaging prior and after CAP treatment for 270 s. The CAP treatment was repeatedly performed at three different treatment modalities (normal, variation 1, variation 2) thus leading to three sub-datasets per volunteer.\nfrom: Thomas Borchardt et al 2024 J. Phys. D: Appl. Phys. 57 385203."
+                },
+                "dsDescriptionDate": {
+                  "typeName": "dsDescriptionDate",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "2024-09-10"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "subject",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Medicine, Health and Life Sciences"
+            ]
+          },
+          {
+            "typeName": "keyword",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "plasma medicine"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Plasma Gases"
+                },
+                "keywordVocabularyURI": {
+                  "typeName": "keywordVocabularyURI",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.ncbi.nlm.nih.gov/mesh/?term=Non-Thermal+Atmospheric+Pressure+Plasma"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "cold atmospheric plasma"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Plasma Gases"
+                },
+                "keywordVocabularyURI": {
+                  "typeName": "keywordVocabularyURI",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.ncbi.nlm.nih.gov/mesh/?term=Non-Thermal+Atmospheric+Pressure+Plasma"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "microcirculation"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Microcirculation"
+                },
+                "keywordVocabularyURI": {
+                  "typeName": "keywordVocabularyURI",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.ncbi.nlm.nih.gov/mesh/?term=microcirculation"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "reactive oxygen species"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Reactive Oxygen Species"
+                },
+                "keywordVocabularyURI": {
+                  "typeName": "keywordVocabularyURI",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.ncbi.nlm.nih.gov/mesh/68017382"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "reactive nitrogen species"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Reactive Nitrogen Species"
+                },
+                "keywordVocabularyURI": {
+                  "typeName": "keywordVocabularyURI",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.ncbi.nlm.nih.gov/mesh/68026361"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "skin treatment"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Therapeutics"
+                },
+                "keywordVocabularyURI": {
+                  "typeName": "keywordVocabularyURI",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.ncbi.nlm.nih.gov/mesh/68013812"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "publication",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Borchardt, T., Grams, O., Emmert, S., Viöl, W., & Helmke, A. (2024). Which CAP components are relevant for enhancing dermal microcirculation in intact skin?. Journal of Physics D: Applied Physics."
+                },
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "doi"
+                },
+                "publicationIDNumber": {
+                  "typeName": "publicationIDNumber",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "10.1088/1361-6463/ad572e"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://iopscience.iop.org/article/10.1088/1361-6463/ad572e/meta"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "language",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "English"
+            ]
+          },
+          {
+            "typeName": "grantNumber",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "grantNumberAgency": {
+                  "typeName": "grantNumberAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "German Federal Ministry of Education and Research (BMBF)"
+                },
+                "grantNumberValue": {
+                  "typeName": "grantNumberValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "13FH6I07IA"
+                }
+              },
+              {
+                "grantNumberAgency": {
+                  "typeName": "grantNumberAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "European Regional Development Fund (ERDF)"
+                },
+                "grantNumberValue": {
+                  "typeName": "grantNumberValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "ZW6-85041147"
+                }
+              },
+              {
+                "grantNumberAgency": {
+                  "typeName": "grantNumberAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "European Regional Development Fund (ERDF)"
+                },
+                "grantNumberValue": {
+                  "typeName": "grantNumberValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "ZW7-85150529"
+                }
+              },
+              {
+                "grantNumberAgency": {
+                  "typeName": "grantNumberAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Ministry of Science and Culture of the German State of Lower Saxony"
+                },
+                "grantNumberValue": {
+                  "typeName": "grantNumberValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "11-76251-34-1/19 (ZN3694)"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "depositor",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Borchardt, Thomas"
+          },
+          {
+            "typeName": "dateOfDeposit",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "2024-10-09"
+          }
+        ]
+      },
+      "geospatial": {
+        "displayName": "Geospatial Metadata",
+        "name": "geospatial",
+        "fields": []
+      },
+      "journal": {
+        "displayName": "Journal Metadata",
+        "name": "journal",
+        "fields": []
+      }
+    },
+    "files": [
+      {
+        "description": "metadata of the data set in the format of the Plasma Metadata Schema (Plasma-MDS)",
+        "label": "metadata-Plasma-MDS.json",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115701,
+          "persistentId": "doi:10.25625/Q3L519/JETOFO",
+          "pidURL": "https://doi.org/10.25625/Q3L519/JETOFO",
+          "filename": "metadata-Plasma-MDS.json",
+          "contentType": "application/json",
+          "friendlyType": "JSON",
+          "filesize": 7766,
+          "description": "metadata of the data set in the format of the Plasma Metadata Schema (Plasma-MDS)",
+          "storageIdentifier": "file://1928216a068-0de1b494a9ad",
+          "rootDataFileId": -1,
+          "md5": "f5e94cb6f994ffa96d7adcfde4f3e978",
+          "checksum": {
+            "type": "MD5",
+            "value": "f5e94cb6f994ffa96d7adcfde4f3e978"
+          },
+          "tabularData": false,
+          "creationDate": "2024-10-12",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "NIR raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "NIR.lessRONS.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115640,
+          "persistentId": "doi:10.25625/Q3L519/RFHB5D",
+          "pidURL": "https://doi.org/10.25625/Q3L519/RFHB5D",
+          "filename": "NIR.lessRONS.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3509,
+          "description": "NIR raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cea6f-965a8ed551d6",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3658,
+          "originalFileName": "NIR.lessRONS.CSV",
+          "UNF": "UNF:6:ATgEIHcVK8NMgQDcqWHAmQ==",
+          "rootDataFileId": -1,
+          "md5": "73d98a3337bdaccf3df3252e19a40018",
+          "checksum": {
+            "type": "MD5",
+            "value": "73d98a3337bdaccf3df3252e19a40018"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "NIR raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "NIR.noCurrent.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115632,
+          "persistentId": "doi:10.25625/Q3L519/OXHTV7",
+          "pidURL": "https://doi.org/10.25625/Q3L519/OXHTV7",
+          "filename": "NIR.noCurrent.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3509,
+          "description": "NIR raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cecaa-a20a977a3039",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3658,
+          "originalFileName": "NIR.noCurrent.CSV",
+          "UNF": "UNF:6:m06wjjPs6tWPmoT2ALeOTQ==",
+          "rootDataFileId": -1,
+          "md5": "556a661c8cb7684858b7b310af46b47e",
+          "checksum": {
+            "type": "MD5",
+            "value": "556a661c8cb7684858b7b310af46b47e"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "NIR raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "NIR.Standard.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115641,
+          "persistentId": "doi:10.25625/Q3L519/KY2G8S",
+          "pidURL": "https://doi.org/10.25625/Q3L519/KY2G8S",
+          "filename": "NIR.Standard.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3509,
+          "description": "NIR raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cef18-415f77f04229",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3658,
+          "originalFileName": "NIR.Standard.CSV",
+          "UNF": "UNF:6:gfNfYn6kHLjHBFTa8Y7wtA==",
+          "rootDataFileId": -1,
+          "md5": "a540eaab2a59b316fe4ee1344641bc30",
+          "checksum": {
+            "type": "MD5",
+            "value": "a540eaab2a59b316fe4ee1344641bc30"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "StO2 raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "StO2.lessRONS.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115635,
+          "persistentId": "doi:10.25625/Q3L519/Q0P0A0",
+          "pidURL": "https://doi.org/10.25625/Q3L519/Q0P0A0",
+          "filename": "StO2.lessRONS.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3389,
+          "description": "StO2 raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cf17a-8c7b9bcde4d4",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3578,
+          "originalFileName": "StO2.lessRONS.CSV",
+          "UNF": "UNF:6:4sjh6/I9eJmkWIhnkYslxw==",
+          "rootDataFileId": -1,
+          "md5": "5a920f7fa401ad0dc647e75c9a7925cb",
+          "checksum": {
+            "type": "MD5",
+            "value": "5a920f7fa401ad0dc647e75c9a7925cb"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "StO2 raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "StO2.noCurrent.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115638,
+          "persistentId": "doi:10.25625/Q3L519/NZTNHL",
+          "pidURL": "https://doi.org/10.25625/Q3L519/NZTNHL",
+          "filename": "StO2.noCurrent.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3389,
+          "description": "StO2 raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cf32d-f16f421969cf",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3578,
+          "originalFileName": "StO2.noCurrent.CSV",
+          "UNF": "UNF:6:g7XyTH3tVqew8DiZXkRcdg==",
+          "rootDataFileId": -1,
+          "md5": "8667814628a679ea7764a0c5e7f4c781",
+          "checksum": {
+            "type": "MD5",
+            "value": "8667814628a679ea7764a0c5e7f4c781"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "StO2 raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "StO2.Standard.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115633,
+          "persistentId": "doi:10.25625/Q3L519/E7M819",
+          "pidURL": "https://doi.org/10.25625/Q3L519/E7M819",
+          "filename": "StO2.Standard.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3389,
+          "description": "StO2 raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cf5b8-6961ae3e93ef",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3578,
+          "originalFileName": "StO2.Standard.CSV",
+          "UNF": "UNF:6:yVgEPPCwbulXRw8QnZAX1g==",
+          "rootDataFileId": -1,
+          "md5": "e1d5f4b55fdcff5e1a0cb6133f65b1f0",
+          "checksum": {
+            "type": "MD5",
+            "value": "e1d5f4b55fdcff5e1a0cb6133f65b1f0"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "THI raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "THI.lessRONS.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115642,
+          "persistentId": "doi:10.25625/Q3L519/DFMHSQ",
+          "pidURL": "https://doi.org/10.25625/Q3L519/DFMHSQ",
+          "filename": "THI.lessRONS.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3477,
+          "description": "THI raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cf76d-ad9f3cc9c9d1",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3626,
+          "originalFileName": "THI.lessRONS.CSV",
+          "UNF": "UNF:6:+i19y294J+RvexnUEO49MA==",
+          "rootDataFileId": -1,
+          "md5": "1f2a59fed02e752df3c763f63e2a965d",
+          "checksum": {
+            "type": "MD5",
+            "value": "1f2a59fed02e752df3c763f63e2a965d"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "THI raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "THI.noCurrent.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115636,
+          "persistentId": "doi:10.25625/Q3L519/DTPGBW",
+          "pidURL": "https://doi.org/10.25625/Q3L519/DTPGBW",
+          "filename": "THI.noCurrent.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3447,
+          "description": "THI raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cf92a-c0049de6bf2d",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3596,
+          "originalFileName": "THI.noCurrent.CSV",
+          "UNF": "UNF:6:E+gvhcCS8I9P6BM3ILt2Pg==",
+          "rootDataFileId": -1,
+          "md5": "80f4141855a8c1fa2c536b7184cfa55c",
+          "checksum": {
+            "type": "MD5",
+            "value": "80f4141855a8c1fa2c536b7184cfa55c"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "THI raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "THI.Standard.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115631,
+          "persistentId": "doi:10.25625/Q3L519/N7YWMF",
+          "pidURL": "https://doi.org/10.25625/Q3L519/N7YWMF",
+          "filename": "THI.Standard.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3433,
+          "description": "THI raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cfacb-132ba8d0268e",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3582,
+          "originalFileName": "THI.Standard.CSV",
+          "UNF": "UNF:6:u2+ZtM6XvCbI1LRBuCl1TQ==",
+          "rootDataFileId": -1,
+          "md5": "651dcab9605d965703f999c85cd55767",
+          "checksum": {
+            "type": "MD5",
+            "value": "651dcab9605d965703f999c85cd55767"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "TWI raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "TWI.lessRONS.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115634,
+          "persistentId": "doi:10.25625/Q3L519/6LGGP9",
+          "pidURL": "https://doi.org/10.25625/Q3L519/6LGGP9",
+          "filename": "TWI.lessRONS.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3509,
+          "description": "TWI raw data of the lessRONS modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cfc96-be53739e8c05",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3658,
+          "originalFileName": "TWI.lessRONS.CSV",
+          "UNF": "UNF:6:aVPFoQt8yPQTpU7tvjrbSg==",
+          "rootDataFileId": -1,
+          "md5": "ef16ac62334c04b12d439e0f8403f552",
+          "checksum": {
+            "type": "MD5",
+            "value": "ef16ac62334c04b12d439e0f8403f552"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "TWI raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "TWI.noCurrent.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115639,
+          "persistentId": "doi:10.25625/Q3L519/CSUPIT",
+          "pidURL": "https://doi.org/10.25625/Q3L519/CSUPIT",
+          "filename": "TWI.noCurrent.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3509,
+          "description": "TWI raw data of the noCurrent modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717cfed4-85721f5d5df3",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3658,
+          "originalFileName": "TWI.noCurrent.CSV",
+          "UNF": "UNF:6:UvYMQqmS44I74eBxhH6JzA==",
+          "rootDataFileId": -1,
+          "md5": "2530822576e0c2d4ddc3a4a874121e97",
+          "checksum": {
+            "type": "MD5",
+            "value": "2530822576e0c2d4ddc3a4a874121e97"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      },
+      {
+        "description": "TWI raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+        "label": "TWI.Standard.tab",
+        "restricted": false,
+        "version": 4,
+        "datasetVersionId": 5211,
+        "dataFile": {
+          "id": 115637,
+          "persistentId": "doi:10.25625/Q3L519/SVSUBZ",
+          "pidURL": "https://doi.org/10.25625/Q3L519/SVSUBZ",
+          "filename": "TWI.Standard.tab",
+          "contentType": "text/tab-separated-values",
+          "friendlyType": "Tab-Delimited",
+          "filesize": 3509,
+          "description": "TWI raw data of the Standard modality of all subjects divided in 2 ROIs and 2 REFs",
+          "storageIdentifier": "file://192717d00fb-638714517d51",
+          "originalFileFormat": "text/csv",
+          "originalFormatLabel": "Comma Separated Values",
+          "originalFileSize": 3658,
+          "originalFileName": "TWI.Standard.CSV",
+          "UNF": "UNF:6:9T/iQGczjWc2sR/D97VWdA==",
+          "rootDataFileId": -1,
+          "md5": "6a3e395144319f70150b8d1ecd7b6a4a",
+          "checksum": {
+            "type": "MD5",
+            "value": "6a3e395144319f70150b8d1ecd7b6a4a"
+          },
+          "tabularData": true,
+          "creationDate": "2024-10-09",
+          "publicationDate": "2024-10-14",
+          "fileAccessRequest": true
+        }
+      }
+    ],
+    "citation": "Borchardt, Thomas; Grams, Ole; Emmert, Steffen; Viöl, Wolfgang; Helmke, Andreas, 2024, \"Replication Data for: Which CAP components are relevant for enhancing dermal microcirculation in intact skin?\", https://doi.org/10.25625/Q3L519, GRO.data, V1, UNF:6:h/YpWgqFQt2+9XecECYJKw== [fileUNF]"
+  }
+}
